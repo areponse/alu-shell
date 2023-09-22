@@ -1,5 +1,4 @@
 #!/bin/bash
-# This script lists files in long format in the current directory, parent directory, and /boot directory.
 (ls -la
 (cd ..
 ls -la))
